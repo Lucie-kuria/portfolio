@@ -1,5 +1,5 @@
 <footer>
-  <p>&copy; <?php echo date("Y"); ?> devLucia
+  <p>&copy; <?php echo date("Y"); ?> developd by devLucia
 </p>
 </footer>
 </body>

@@ -11,9 +11,9 @@
       <a href="contact.php" class="btn-secondary">Get In Touch ✉</a>
     </div>
     <div class="stats">
-      <div><h3>5+</h3><p>Years Experience</p></div>
-      <div><h3>100+</h3><p>Projects Completed</p></div>
-      <div><h3>50+</h3><p>Happy Clients</p></div>
+      <div><h3>3+</h3><p>Years Experience</p></div>
+      <div><h3>40+</h3><p>Projects Completed</p></div>
+      <div><h3>25+</h3><p>Happy Clients</p></div>
     </div>
   </div>
 </section>

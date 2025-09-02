@@ -53,8 +53,8 @@
     <!-- RIGHT IMAGE -->
     <div class="about-image">
       <img src="assets/images/profile.jpg" alt="Profile Picture">
-      <div class="badge years">5+ Years</div>
-      <div class="badge projects">100+ Projects</div>
+      <div class="badge years">3+ Years</div>
+      <div class="badge projects">40+ Projects</div>
     </div>
 
   </div>
