@@ -6,14 +6,13 @@
     <!-- LEFT CONTENT -->
     <div class="about-text">
       <h2>About <span>Me</span></h2>
-      <p>
-        With over 5 years of experience in graphic design, I specialize in creating visual identities that 
-        resonate with audiences and drive business growth. My passion lies in transforming complex ideas into 
-        simple, elegant design solutions.
-      </p>
-      <p>
-        I believe great design is not just about aesthetics—it's about solving problems, telling stories, and 
-        creating meaningful connections between brands and their communities.
+     <p>
+  With over 5 years of experience in software development, I specialize in building intuitive applications and digital experiences that engage users and drive meaningful impact. I focus on creating solutions that are not only functional but also visually compelling and user-friendly.
+</p>
+<p>
+  I believe great software is more than just code—it's about solving real problems, enhancing user experiences, and designing interfaces that connect seamlessly with people’s needs and workflows.
+</p>
+
       </p>
 
       <!-- CORE SKILLS -->
@@ -52,7 +51,7 @@
 
     <!-- RIGHT IMAGE -->
     <div class="about-image">
-      <img src="assets/images/profile.jpg" alt="Profile Picture">
+      <img src="assets/images/logo.jpeg" alt="Profile Picture">
       <div class="badge years">3+ Years</div>
       <div class="badge projects">40+ Projects</div>
     </div>
