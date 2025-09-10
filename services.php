@@ -94,6 +94,17 @@ $services = [
     </div>
 </div>
 
+<div class="custom-section container my-5">
+  <div class="p-5 text-center shadow-sm rounded bg-light">
+      <h4 class="fw-bold mb-3">Need Something Custom?</h4>
+      <p class="text-muted">
+        Don't see exactly what you're looking for? I love tackling unique design challenges and 
+        creating custom solutions tailored to your specific needs.
+      </p>
+      <a href="contact.php" class="btn btn-danger btn-lg mt-3">Let's Discuss Your Project</a>
+  </div>
+</div>
+
 <?php include 'includes/footer.php'; ?>
 </body>
 </html>
