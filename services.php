@@ -7,7 +7,7 @@ $services = [
         "title" => "Brand Identity",
         "description" => "Complete brand identity solutions including logo design, color palettes, and brand guidelines.",
         "features" => ["Logo Design", "Brand Guidelines", "Color Schemes", "Typography"],
-        "price" => "KES 65,000",
+        "price" => "KES 45,000",
         "icon" => "fas fa-palette", // Font Awesome icon
         "link" => "service-details.php?service=brand-identity"
     ],

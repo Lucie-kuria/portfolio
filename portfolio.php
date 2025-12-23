@@ -4,31 +4,31 @@
 // Portfolio items (later you can fetch these from DB)
 $portfolioItems = [
     [
-        "title" => "Modern Tech Brand",
-        "category" => "Branding",
-        "description" => "Complete brand identity for a tech startup",
-        "image" => "images/branding1.jpg",
+        "title" => "Software Consultation",
+        "category" => "Consultation",
+        "description" => "Expert advice to optimize your software solutions.",
+        "image" => "assets/images/sof_consultation.png",
         "link"  => "#"
     ],
     [
         "title" => "E-commerce App Design",
         "category" => "UI/UX",
         "description" => "Mobile app interface for shopping platform",
-        "image" => "images/uiux1.jpg",
+        "image" => "assets/images/uxui.png",
         "link"  => "#"
     ],
     [
-        "title" => "Character Illustration",
-        "category" => "Illustrations",
-        "description" => "Custom character design for animation",
-        "image" => "images/illustration1.jpg",
+        "title" => "Web development",
+        "category" => "Websites",
+        "description" => "Creating modern, responsive websites that drive results.",
+        "image" => "assets/images/web_dev.png",
         "link"  => "#"
     ],
     [
-        "title" => "Creative Flyer Design",
-        "category" => "Print Design",
-        "description" => "Flyer design for marketing campaign",
-        "image" => "images/print1.jpg",
+        "title" => "App development",
+        "category" => "Mobile development",
+        "description" => "Building custom apps that grow your business.",
+        "image" => "assets/images/mob_dev.png",
         "link"  => "#"
     ]
 ];
@@ -79,7 +79,7 @@ $portfolioItems = [
 
     <!-- View All Projects Button -->
     <div class="text-center mt-4">
-        <a href="portfolio.php" class="btn btn-info text-white px-4 py-2">View All Projects</a>
+        <a href="project.php" class="btn btn-info text-white px-4 py-2">View All Projects</a>
     </div>
 </div>
 

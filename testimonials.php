@@ -24,8 +24,8 @@ $testimonials = [
                       by 40% since the rebrand."
     ],
     [
-        "name" => "Michael Kiprotich",
-        "position" => "Founder, Nairobi Eats",
+        "name" => "Mufasa Ndung'u",
+        "position" => "Senior developer",
         "image" => "images/clients/michael.jpg",
         "message" => "Working with Lucy was an absolute pleasure. He understood our vision 
                       immediately and delivered designs that exceeded our expectations. 
@@ -33,15 +33,15 @@ $testimonials = [
                       new demographic."
     ],
     [
-        "name" => "Faith Njeri",
-        "position" => "Marketing Director, Tusker Brands",
+        "name" => "Stanley Machara",
+        "position" => "Project Manager",
         "image" => "images/clients/faith.jpg",
         "message" => "Lucy's attention to detail and creative approach made our product 
                       packaging stand out on shelves. Sales have increased by 60% since 
                       implementing his designs. He's truly a design wizard!"
     ],
     [
-        "name" => "John Mwangi",
+        "name" => " Tracey Makena",
         "position" => "Product Manager, FinTech Hub",
         "image" => "images/clients/john.jpg",
         "message" => "The UI/UX design Lucy created for our mobile app is intuitive and 

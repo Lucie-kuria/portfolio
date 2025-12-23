@@ -18,12 +18,12 @@
       <!-- CORE SKILLS -->
       <h3>Core Skills</h3>
       <div class="skills-grid">
-        <span>Brand Identity Design</span>
+        <span>Maintainance & Support</span>
         <span>UI/UX Design</span>
-        <span>Illustration</span>
-        <span>Print Design</span>
+        <span>Web Development</span>
+        <span>App Development</span>
         <span>Digital Marketing</span>
-        <span>Typography</span>
+        <span>Software Consultation</span>
       </div>
 
       <!-- ACHIEVEMENTS -->

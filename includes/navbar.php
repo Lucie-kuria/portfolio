@@ -66,7 +66,7 @@
     </div>
     <nav>
       <ul>
-        <li><a href="index.php" class="active">Home</a></li>
+        <li><a href="home.php" class="active">Home</a></li>
         <li><a href="about.php">About</a></li>
         <li><a href="portfolio.php">Portfolio</a></li>
         <li><a href="services.php">Services</a></li>
