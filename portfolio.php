@@ -11,10 +11,10 @@ $portfolioItems = [
         "link"  => "#"
     ],
     [
-        "title" => "E-commerce App Design",
+        "title" => "Graphics Design",
         "category" => "UI/UX",
-        "description" => "Mobile app interface for shopping platform",
-        "image" => "assets/images/uxui.png",
+        "description" => "Brand identity, logo designs, typography",
+        "image" => "assets/images/graphics.png",
         "link"  => "#"
     ],
     [

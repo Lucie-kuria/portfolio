@@ -22,7 +22,7 @@
         <span>UI/UX Design</span>
         <span>Web Development</span>
         <span>App Development</span>
-        <span>Digital Marketing</span>
+        <span>Graphics Design</span>
         <span>Software Consultation</span>
       </div>
 
